@@ -1,0 +1,31 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400; 
+  font-style: normal;
+}
+
+.predict-btn {
+  background-color: #418CFE; 
+  color: white;
+  font-weight: bold;
+  transition: 0.3s ease;
+}
+
+.predict-btn:hover {
+  background-color: #A4C2F7;
+}
+
+.header h6{
+    font-weight: 600;
+    font-family: "Oswald", sans-serif;
+}
+.header span{
+    color: #418CFE;
+    
+}
+
+.title-section h3{
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+}
